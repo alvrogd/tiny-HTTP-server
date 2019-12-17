@@ -40,7 +40,7 @@ Y, para ejecutarlo, debe indicarse al ejecutable un puerto en el cual el servido
 ./servidor 8000
 ```
 
-Si no se indica un puerto superior a 1024, es neesario contar con permisos de superusuario.
+Si no se indica un puerto superior a 1024, es necesario contar con permisos de superusuario.
 
 
 ## Trabajo futuro
